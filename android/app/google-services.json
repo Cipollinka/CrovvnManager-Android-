@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511363878739",
+    "project_id": "amd-2751---crovvnmanager",
+    "storage_bucket": "amd-2751---crovvnmanager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511363878739:android:20b4aaef832fd023589ba6",
+        "android_client_info": {
+          "package_name": "com.crovvnmanager.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdihzehWf8O53AfXnxp9ugLuuebTp-9pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
